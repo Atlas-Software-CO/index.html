@@ -1,6 +1,4 @@
-![Atlas_Software _cocosign](https://user-images.githubusercontent.com/68822081/153274613-a7ba7fb5-7e31-4853-9a1b-fabceeb52c71.png)
-## Welcome to GitHub Pages
-
+![Atlas_Software_cocosign](https://user-images.githubusercontent.com/68822081/153274744-b0764da9-8b87-4b16-8a5e-5c0cb606c4ad.png)
 You can use the [editor on GitHub](https://github.com/Atlas-Software-CO/index.html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
